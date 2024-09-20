@@ -17,8 +17,8 @@ class Solution:
                 uncommon.append(i)
         return uncommon
 
-s1 = "apple apple"
-s2 = "banana"
+# s1 = "apple apple"
+# s2 = "banana"
 
-obj = Solution()
-print(obj.uncommonFromSentences(s1, s2))
+# obj = Solution()
+# print(obj.uncommonFromSentences(s1, s2))
