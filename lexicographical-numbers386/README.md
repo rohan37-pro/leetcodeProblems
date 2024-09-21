@@ -1,4 +1,5 @@
-386. Lexicographical Numbers
+# 386. Lexicographical Numbers
+
 Medium
 
 Given an integer n, return all the numbers in the range [1, n] sorted in lexicographical order.
