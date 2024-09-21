@@ -19,5 +19,5 @@ class Solution:
                 lex +=1
         return lexical
 
-obj = Solution()
-print(obj.lexicalOrder(136))
+# obj = Solution()
+# print(obj.lexicalOrder(136))
